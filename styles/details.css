@@ -1,0 +1,9 @@
+.options {
+    flex-basis: 15%;
+    margin: 2em;
+    border: 1px dashed dodgerblue;
+    padding: 0 2rem;
+    border-radius: 0.5rem;
+    box-shadow: 0.25rem 0.25rem 0.5rem rgb(143, 143, 143);
+}
+
